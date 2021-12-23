@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-
 from interface import *
 
 app = App()
